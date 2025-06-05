@@ -1,0 +1,1 @@
+ C:\\work\\uber\\final_fcg_working\\riders_app\\.dart_tool\\flutter_build\\59a488f9a6e4f452d4fe435fbfc14aa2\\native_assets.yaml: 
